@@ -1,4 +1,4 @@
-# Out of Element – Official Website
+# OutofElement.tv – Official Website
 
 Welcome to the official website repository for **Out of Element** — a paranormal exploration and horror content group focused on getting friends and strangers out of their comfort zones.
 
